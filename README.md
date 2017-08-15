@@ -1,2 +1,4 @@
 # hello-world
-My first GitHub repository
+
+It's my first GitHub repository.
+Ever.
